@@ -13,10 +13,12 @@ This project analyzes sales data using Orders, Customers, and Products datasets 
 ## Tools Used
 - Excel-Pivot table, power query, power pilot
 
-## Files Included
+## Files Included<img width="1878" height="852" alt="FNP Dashboard" src="https://github.com/user-attachments/assets/cc5fd22b-340c-47aa-be22-758be932b089" />
+
 - Dataset (Orders, Customers, Products)
-- Dashboard file
 - Dashboard screenshot
+- <img width="1402" height="579" alt="image" src="https://github.com/user-attachments/assets/dd58c212-26e2-4a16-9f1c-a46f7c393986" />
+
 
 ## Author
 Samreen  
