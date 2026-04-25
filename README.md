@@ -17,8 +17,6 @@ This project analyzes sales data using Orders, Customers, and Products datasets 
 
 - Dataset (Orders, Customers, Products)
 - Dashboard screenshot
-- <img width="1402" height="579" alt="image" src="https://github.com/user-attachments/assets/dd58c212-26e2-4a16-9f1c-a46f7c393986" />
-
 
 ## Author
 Samreen  
